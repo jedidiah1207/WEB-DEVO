@@ -1,0 +1,79 @@
+body{
+    background-color: linen;
+    /*font-family: 'Inspiration', cursive;*/
+    font-size: 20px;
+}
+div{
+    color: maroon;
+    margin-left: 40px;
+}
+/* .flames{
+    color:blueviolet;
+    font-family: 'Hurricane', cursive;
+} */
+#fr{
+    color:rgb(51, 255, 0);
+}
+#ds{
+    color:rgb(255, 136, 0);
+    
+}
+#ip{
+    color:#083d54;
+}
+#sp{
+    color:#083d54;
+    
+}
+#boyname{color:#050336;}
+#girlname{color:#050336;}
+.flamestext{
+    padding-left: 6%;
+    /* padding-right: 1%; */
+}
+.flames{
+    font-family: 'Rock 3D', cursive;
+    font-size: 8rem;
+    color:#A7db32;
+    
+}
+.spotlightcenter{
+    width: 100%;
+    height: 30px;
+    padding-left: 5%;
+}
+.spotlight{
+    width: 150px;
+    height: 30px;
+    float: left;
+    background-color: #c608d1;
+    margin-right: 2%;
+    margin-left: 4%;
+    visibility: hidden;
+}
+
+#f{
+    text-shadow:
+    0 0 7px #c608d1,
+    0 0 10px #c608d1,
+    0 0 21px #c608d1,
+    0 0 42px #c608d1,
+    0 0 82px #FF009E,
+    0 0 92px #FF009E,
+    0 0 102px #C597C4,
+    0 0 151px #C597C4;
+}
+
+#light1{
+    visibility: visible;
+    box-shadow:
+    0 0 7px #c608d1,
+    0 0 10px #c608d1,
+    0 0 21px #c608d1,
+    0 0 42px #c608d1,
+    0 0 82px #FF009E,
+    0 0 92px #FF009E,
+    0 0 102px #C597C4,
+    0 0 151px #C597C4;
+}
+
